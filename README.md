@@ -8,9 +8,9 @@ Since Twitch deprecated their old API a while ago it's been harder to do simple 
 Handles authorisation and token stuff, since there's no nice ways to do it in arduino... 
 packages required:
 
-´´´
+```
 requests time twitchAPI socket
-´´´
+```
 
 ## Arduino file
 
@@ -19,6 +19,6 @@ and transmits $streamer, then waits a while for a response which is either "0\n"
 
 libraries required:
 
-´´´
+```
 'ESP8266 framework for arduino' and https://github.com/tzapu/WiFiManager
-´´´
+```
