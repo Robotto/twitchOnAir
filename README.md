@@ -1,7 +1,9 @@
 # twitchOnAir
 A python / arduino combo that checks whether a twitch stream is online.. 
 
-Since Twitch deprecated their old API a while ago it's been harder to do simple embedded stuff like a "stream online" sign, or whatnot. Here's a fix.
+Since Twitch deprecated their old API a while ago it's been harder to do simple embedded stuff like a "stream online" sign, or whatnot. 
+
+Here's a fix.
 
 ## Python script
 
