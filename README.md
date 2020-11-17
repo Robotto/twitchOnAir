@@ -13,7 +13,7 @@ requests time twitchAPI socket
 ```
 twitchAPI requires a client_id and client_secret.
 
-Get your own from [twitch](https://dev.twitch.tv/console/extensions/) read more [here](https://dev.twitch.tv/docs/authentication).
+Get your own from [twitch](https://dev.twitch.tv/console/extensions/). Read more about authorising with the twitch api [here](https://dev.twitch.tv/docs/authentication).
 
 ## Arduino code
 
